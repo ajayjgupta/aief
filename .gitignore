@@ -1,0 +1,83 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+downloads/
+.eggs/
+*.egg-info/
+*.egg
+pip-wheel-metadata/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.nox/
+.coverage
+.coverage.*
+htmlcov/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# SQLite databases
+*.sqlite3
+*.db
+
+# Type checker and linter caches
+.pyre/
+.dmypy.json
+.pytype/
+
+# Packaging
+MANIFEST
+
+# pyenv
+.python-version
+
+# Poetry
+poetry.lock
+
+# Pipenv
+Pipfile.lock
+
+# VS Code test artifacts
+.testing/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
